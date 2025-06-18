@@ -108,7 +108,15 @@ body{
  font-size: 24px;
 }
 
+.checkbox {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
 
+label{
+    font-size: 20px;
+}
 
 @media screen and (min-width: 768px) {
     .parametro-coluna__senha{
